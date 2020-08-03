@@ -1,4 +1,4 @@
-export default {
+module.exports = {
     obsSettings: { //Address and port of PC running obs with obs-websockets
         address: "localhost",
         port: "4444"
